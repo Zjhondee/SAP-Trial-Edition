@@ -29,9 +29,10 @@ Detailed documentation of OS prerequisite preparation, network host mapping, Vir
   <img width="629" height="358" alt="image" src="https://github.com/user-attachments/assets/6f807dfd-de6d-45cc-80da-763d39e5df09" />
 
 - **System Maintenance:** Profile parameter updates (`RZ10`, `RZ11`), and background job scheduling (`SM36`, `SM37`).
-  <img width="603" height="164" alt="image" src="https://github.com/user-attachments/assets/0ff15420-0ff2-4768-bb72-a482f81ebce3" />
+
 
 - **Client Copying:** Creation of client ID (100) using T-Code `SCC4`, local client copy with `SCCL`, log monitoring via `SCC3`, logical system definition in `BD54`, system conversion using `BDLS`, BP index regeneration via `BUSP`, and outbound email management with `SOST`.
+ <img width="603" height="164" alt="image" src="https://github.com/user-attachments/assets/0ff15420-0ff2-4768-bb72-a482f81ebce3" />
   <img width="967" height="938" alt="image" src="https://github.com/user-attachments/assets/b53a06a3-c0ca-4939-af07-ba7cb8cf3e37" />
   <img width="1001" height="937" alt="image" src="https://github.com/user-attachments/assets/d46b6ffb-168d-4ea1-ad89-22bf663aed5d" />
   <img width="1008" height="265" alt="image" src="https://github.com/user-attachments/assets/83e7ac77-f360-4c8d-98fd-5ddfc5fd93cf" />
